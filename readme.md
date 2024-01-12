@@ -7,3 +7,4 @@ git log --oneline
 git rebase -i new_branch
 pean ruttu siia midagi kirjutama XD
 konflikt branch'ide vahel
+ja see on nüüd ikkagi ka omamoodi
