@@ -5,3 +5,4 @@ new_branch veel üks uuendus
 konflikt !!!!!
 git log --oneline
 git rebase -i new_branch
+pean ruttu siia midagi kirjutama XD
